@@ -1,0 +1,5 @@
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.Business\bin\Debug\ApiVersioning.Business.dll
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.Business\bin\Debug\ApiVersioning.Business.pdb
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.Business\obj\Debug\ApiVersioning.Business.csprojResolveAssemblyReference.cache
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.Business\obj\Debug\ApiVersioning.Business.dll
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.Business\obj\Debug\ApiVersioning.Business.pdb

@@ -1,0 +1,5 @@
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.DataAccess\bin\Debug\ApiVersioning.DataAccess.dll
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.DataAccess\bin\Debug\ApiVersioning.DataAccess.pdb
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.DataAccess\obj\Debug\ApiVersioning.DataAccess.csprojResolveAssemblyReference.cache
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.DataAccess\obj\Debug\ApiVersioning.DataAccess.dll
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.DataAccess\obj\Debug\ApiVersioning.DataAccess.pdb
