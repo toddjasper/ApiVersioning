@@ -1,4 +1,5 @@
 ﻿using System.Web.Mvc;
+using ApiVersioning.Services;
 
 namespace ApiVersioning.Api.Controllers
 {
@@ -8,7 +9,9 @@ namespace ApiVersioning.Api.Controllers
         [Route("ajax/product")]
         public JsonResult Index()
         {
-            return Json(new {success = true}, JsonRequestBehavior.AllowGet);
+            IProductService productService = new ProductService();
+            var viewModel = productService.GetProduct();
+            return Json(viewModel, JsonRequestBehavior.AllowGet);
         }
     }
 }

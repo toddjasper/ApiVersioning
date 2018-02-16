@@ -40,7 +40,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IProductService.cs" />
+    <Compile Include="ProductService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ApiVersioning.Business\ApiVersioning.Business.csproj">
+      <Project>{1749c25e-2143-4adc-afed-cf6e7b8f064c}</Project>
+      <Name>ApiVersioning.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ApiVersioning.DataAccess\ApiVersioning.DataAccess.csproj">
+      <Project>{dd9200b9-21ed-4fa5-912f-39d7059b372c}</Project>
+      <Name>ApiVersioning.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ApiVersioning.ViewModels\ApiVersioning.ViewModels.csproj">
+      <Project>{9fb1626b-b235-4272-afa5-eedb922a3bb6}</Project>
+      <Name>ApiVersioning.ViewModels</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

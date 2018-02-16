@@ -164,6 +164,16 @@
   <ItemGroup>
     <Content Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ApiVersioning.Services\ApiVersioning.Services.csproj">
+      <Project>{a3704dd7-a4d8-406a-ae13-34a4edeeb192}</Project>
+      <Name>ApiVersioning.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ApiVersioning.ViewModels\ApiVersioning.ViewModels.csproj">
+      <Project>{9fb1626b-b235-4272-afa5-eedb922a3bb6}</Project>
+      <Name>ApiVersioning.ViewModels</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

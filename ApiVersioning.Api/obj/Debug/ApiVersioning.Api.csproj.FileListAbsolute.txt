@@ -57,3 +57,11 @@ C:\temp\SourceCode\ApiVersioning\ApiVersioning.Api\bin\Microsoft.Owin.xml
 C:\temp\SourceCode\ApiVersioning\ApiVersioning.Api\bin\System.Web.Http.Owin.xml
 C:\temp\SourceCode\ApiVersioning\ApiVersioning.Api\obj\Debug\ApiVersioning.Api.dll
 C:\temp\SourceCode\ApiVersioning\ApiVersioning.Api\obj\Debug\ApiVersioning.Api.pdb
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.Api\bin\ApiVersioning.Services.dll
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.Api\bin\ApiVersioning.ViewModels.dll
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.Api\bin\ApiVersioning.DataAccess.dll
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.Api\bin\ApiVersioning.Business.dll
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.Api\bin\ApiVersioning.Services.pdb
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.Api\bin\ApiVersioning.ViewModels.pdb
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.Api\bin\ApiVersioning.DataAccess.pdb
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.Api\bin\ApiVersioning.Business.pdb

@@ -1,0 +1,5 @@
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.ViewModels\bin\Debug\ApiVersioning.ViewModels.dll
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.ViewModels\bin\Debug\ApiVersioning.ViewModels.pdb
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.ViewModels\obj\Debug\ApiVersioning.ViewModels.csprojResolveAssemblyReference.cache
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.ViewModels\obj\Debug\ApiVersioning.ViewModels.dll
+C:\temp\SourceCode\ApiVersioning\ApiVersioning.ViewModels\obj\Debug\ApiVersioning.ViewModels.pdb
