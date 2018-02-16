@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiVersioning.DataAccess", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiVersioning.Services", "ApiVersioning.Services\ApiVersioning.Services.csproj", "{A3704DD7-A4D8-406A-AE13-34A4EDEEB192}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiVersioning.Web.UI", "ApiVersioning.Web.UI\ApiVersioning.Web.UI.csproj", "{E974B604-2293-4C89-91AD-7218FA34380B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiVersioning.Api", "ApiVersioning.Api\ApiVersioning.Api.csproj", "{881EE2F1-5151-48CD-A966-231AD8E2F092}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{A3704DD7-A4D8-406A-AE13-34A4EDEEB192}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3704DD7-A4D8-406A-AE13-34A4EDEEB192}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3704DD7-A4D8-406A-AE13-34A4EDEEB192}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E974B604-2293-4C89-91AD-7218FA34380B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E974B604-2293-4C89-91AD-7218FA34380B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E974B604-2293-4C89-91AD-7218FA34380B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E974B604-2293-4C89-91AD-7218FA34380B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881EE2F1-5151-48CD-A966-231AD8E2F092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881EE2F1-5151-48CD-A966-231AD8E2F092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881EE2F1-5151-48CD-A966-231AD8E2F092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881EE2F1-5151-48CD-A966-231AD8E2F092}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
